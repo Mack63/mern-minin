@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://mern_user:mern_user@cluster0.h8zbs.mongodb.net/mern?retryWrites=true&w=majority",
+  "secretekey": "1234",
+  "baseUrl": "http://localhost:5000"
+}
